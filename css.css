@@ -4,8 +4,8 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 480px;
-    height: 480px;
+    width: 500px;
+    height: 500px;
     border-radius: 20px;
     padding: 20px;
     backdrop-filter: blur(10px);
@@ -22,8 +22,8 @@
 .anj1{
     opacity: 1;
     position: fixed;
-    top: 75%;
-    left: 60%;
+    top: 80%;
+    left: 75%;
     transform: translate(-50%, -50%);
     width: 120px;
     height: 20px;
@@ -36,8 +36,8 @@
 .anj2{
     opacity: 1;
     position: fixed;
-    top: 75%;
-    left: 40%;
+    top: 80%;
+    left: 25%;
     transform: translate(-50%, -50%);
     width: 120px;
     height: 20px;
